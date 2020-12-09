@@ -2,6 +2,21 @@
 
 This is a playground project to start learning flutter.
 
+## 2020-12-09
+
+```
+flutter emulators --launch android9
+flutter run
+```
+
+Things are getting simpler.
+
+Still missing how to put breakpoints.
+
+Starting to like `StatefulWidgets`
+
+Learned how to transit from one 'page' to another.
+
 ## 2020-12-05
 
 So far, so good.
