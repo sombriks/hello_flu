@@ -2,6 +2,14 @@
 
 This is a playground project to start learning flutter.
 
+## 2020-12-12
+
+Seeing articles about that BLOC thing and i think i've nailed it.
+
+We can use a `StatelessWidget` with a `StreamBuilder` to build it's body and the
+BLOC itself just need to provide a `Stream`. Somehow. Best option is to use a 
+`StreamController`.
+
 ## 2020-12-09
 
 ```
